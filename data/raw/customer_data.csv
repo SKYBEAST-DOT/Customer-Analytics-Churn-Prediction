@@ -1,0 +1,4 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+0001,Female,0,Yes,No,12,Yes,Month-to-month,Electronic check,70.35,844.2,No
+0002,Male,1,No,No,2,Yes,Month-to-month,Mailed check,89.10,178.2,Yes
+0003,Female,0,Yes,Yes,48,Yes,Two year,Bank transfer (automatic),65.50,3144.0,No
